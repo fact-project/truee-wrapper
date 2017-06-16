@@ -6,4 +6,4 @@ ROOT: `https://root.cern.ch/`
 TRUEE: `https://git.e5.physik.tu-dortmund.de/truee/TRUEE`   
 
 # Preparation
-Make sure to have sourced ROOT's `thisroot.sh` and to have the `bin` directory in you `$PATH`
+Make sure to have sourced ROOT's `thisroot.sh` and to have the `bin` directory of TRUEE in you `$PATH`
